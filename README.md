@@ -40,22 +40,13 @@
 
     ---
 
-    ## 🚀 Projects
+    ## 📝 Master's Thesis
 
-    **[Dynamic Hand Gesture Recognition](https://github.com/pesala111/dynamic-hand-gesture-recognition)**
-    Real-time hand gesture recognition using MediaPipe for landmark tracking on video streams, integrated with a simulator-based research platform for gesture-driven interaction. `PyTorch` `MediaPipe` `ResNet-3D`
+    **Multi-Grade Brain Tumor Classification with Model Interpretability using Explainable AI** *(Nov 2023 – Jun 2024)*
 
-    **[Hybrid RAG PDF Search](https://github.com/pesala111/hybrid-rag-pdf-search)**
-    RAG pipeline combining FAISS embeddings and semantic search over PDF documents, with structured chunking and OpenAI-powered Q&A. `LangChain` `FAISS` `OpenAI API` `FastAPI`
+    Built a deep learning framework for multi-grade brain tumor classification on 3D MRI (NIfTI) data. Optimized preprocessing using Nibabel, FSL, and augmentation techniques, and integrated Explainable AI methods (SHAP, Grad-CAM) to identify relevant tumor regions influencing classification decisions. Structured experiment tracking and comparative model evaluation via Weights & Biases.
 
-    **[API Design & Integration](https://github.com/pesala111/api-design-and-integration)**
-    Lightweight FastAPI service for equipment maintenance data — extracts key entities, exposes RESTful endpoints, with Docker, CI/CD, and full test coverage. `FastAPI` `Docker` `GitHub Actions`
-
-    **[Python Text Toolkit](https://github.com/pesala111/python-text-toolkit)**
-    Modular NLP text processing toolkit with tokenization, type-checking, linting, and a CLI — built with full CI pipeline, Makefile, and Docker support. `Python` `NLP` `Docker` `uv`
-
-    **Master Thesis — Multi-Grade Brain Tumor Classification with Explainable AI** *(2023–2024)*
-    Deep learning framework for multi-grade brain tumor classification on 3D MRI (NIfTI) data. Integrated SHAP and Grad-CAM for interpretability, with structured experiment tracking via Weights & Biases. `PyTorch` `SHAP` `Grad-CAM` `W&B` `Nibabel`
+    `PyTorch` `SHAP` `Grad-CAM` `Weights & Biases` `Nibabel` `FSL` `Python`
 
     ---
 
